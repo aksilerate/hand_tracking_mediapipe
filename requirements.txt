@@ -1,0 +1,7 @@
+opencv-python
+numpy
+mediapipe
+adafruit-circuitpython-servokit
+adafruit-blinka==8.58.1
+picamera2
+sshkeyboard
