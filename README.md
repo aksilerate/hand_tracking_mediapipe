@@ -1,3 +1,3 @@
-Run the setup.sh file first
-Open terminal and navigate to the folder
-Launch the program by double clicking on run-code.sh
+1. Run the setup.sh file first
+2. Open terminal and navigate to the folder
+3. Launch the program by double clicking on run-code.sh
